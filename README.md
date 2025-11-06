@@ -56,22 +56,22 @@ Construir e desenvolver um "espelho inteligente"
 
 ## 🗓️ Plano de Trabalho
 Fase	Tarefas	Prazo	Estado
-1	Planeamento e setup	DD/MM	✅
-2	Desenvolvimento backend	DD/MM	🟡
-3	Desenvolvimento frontend	DD/MM	🔴
+1	Planeamento e setup	20/10	✅
+2	Desenvolvimento backend	26/10	🟡
+3	Desenvolvimento frontend	26/10	🔴
 4	Testes e deploy	DD/MM	🔴
 
 ## 📝 Relatório de Progresso
-Última Atualização: [Data]
+Última Atualização: 4/11
 O que foi feito desde a última atualização:
-- Implementada a funcionalidade X
-- Corrigido bug Y
-- Melhorado o design da página Z
+- Implementada a funcionalidade de spotify
+- Corrigido bug de linguagem
+- Melhorado o design do espelho
 
 ## Próximos passos:
-- Implementar feature A
-- Escrever testes para B
-- Otimizar performance C
+- Implementar o frame IDR
+- Realizar testes
+- Montar tudo na moldura 
 
 ## 🔗 Links Úteis
 - Documentação - Documentação detalhada
