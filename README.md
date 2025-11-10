@@ -13,27 +13,27 @@
 Construir e desenvolver um "espelho inteligente"
 
 ## 🎯 Objetivos Principais
-- [ ] Desenvolver um Smart Mirror no qual possa ser usado no quatidiano ou de uso empresarial.
-- [ ] Assegurar a comunicação entre hardware e software
-- [ ] Instalar e configurar o Raspberry Pi 
+- [✅] Desenvolver um Smart Mirror no qual possa ser usado no quatidiano ou de uso empresarial.
+- [✅] Assegurar a comunicação entre hardware e software
+- [✅] Instalar e configurar o Raspberry Pi 
 
 ## 🛠️ Stack Tecnológica
 
 ### **Sistema Operativo**
-- [ ] Raspberry Pi OS (Debian/Linux) — sistema leve e estável. 
+- [✅] Raspberry Pi OS (Debian/Linux) — sistema leve e estável. 
 
 ### **Hardware**
-- [ ] Computador
-- [ ] Ecrã
-- [ ] Espelho
+- [✅] Computador
+- [✅] Ecrã
+- [✅] Espelho
 
 ### **Software**
-- [ ] Node.js
+- [✅] Node.js
 
 ### **Outras Ferramentas**
-- [ ] Git & GitHub
-- [ ] Youtube
-- [ ] Fontes de pesquisa (google,chatGPt,germini,etc)
+- [✅] Git & GitHub
+- [✅] Youtube
+- [✅] Fontes de pesquisa (google,chatGPt,germini,etc)
 
 ## 📁 Estrutura do Projeto
 ![Estrutura do projeto](./docs/images/estrutura.png)
@@ -74,12 +74,10 @@ O que foi feito desde a última atualização:
 - Montar tudo na moldura 
 
 ## 🔗 Links Úteis
-- Documentação - Documentação detalhada
-- Trello/Planeamento - Quadro de tarefas
-- Protótipo - Design no Figma
+- Video de referencia - https://www.youtube.com/watch?v=Z1eOakt0ON8&t=709s
 
 ## 📞 Contacto
-- Email: [teu.email@escola.com]
-- GitHub: [@teuusername]
+- Email: a10730@agrcanelas.com
+- GitHub: https://github.com/leandroVieria
 
 
